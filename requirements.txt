@@ -1,0 +1,9 @@
+openai
+langchain
+langchain_openai
+langchain-community
+python-dotenv
+datasets
+qdrant-client
+tiktoken
+transformers
